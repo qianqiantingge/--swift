@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "fa4e8815-ead9-4fdb-aeef-81a8e2c01b76++2596",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "fa4e8815-ead9-4fdb-aeef-81a8e2c01b76++2596" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "fa4e8815-ead9-4fdb-aeef-81a8e2c01b76++2596" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD702A28-4038-42E5-A5AA-3400B04F266C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "fa4e8815-ead9-4fdb-aeef-81a8e2c01b76++2596" : "my%E6%98%93%E7%9B%B4%E6%92%AD\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Live",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Live.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/liuwei.local\/lwsvn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "fa4e8815-ead9-4fdb-aeef-81a8e2c01b76++2596"
+    }
+  ]
+}

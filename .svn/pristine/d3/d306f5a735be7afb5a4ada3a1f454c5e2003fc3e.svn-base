@@ -1,0 +1,24 @@
+//
+//  FindViewController.swift
+//  Live
+//
+//  Created by qianfeng on 16/10/20.
+//  Copyright © 2016年 flyfeng. All rights reserved.
+//
+
+import UIKit
+
+class FindViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        self.view.backgroundColor = UIColor.greenColor()
+        self.setNav()
+    }
+
+//设置导航条
+    func setNav(){
+        self.navigationItem.title = "发现"
+        self.navigationController!.navigationBar.titleTextAttributes = [NSFontAttributeName: UIFont.systemFontOfSize(20), NSForegroundColorAttributeName: UIColor.whiteColor()]
+    }
+}
